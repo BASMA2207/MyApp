@@ -1,1 +1,1 @@
-print("waloo")
+print("wa")
